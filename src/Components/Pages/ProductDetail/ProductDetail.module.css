@@ -1,0 +1,13 @@
+.detail_container {
+  display: flex;
+  flex-direction: column;
+    width: 30%; 
+    height: 80px;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    align-items: center;
+    
+  }
+  
